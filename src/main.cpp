@@ -13,6 +13,7 @@ int main(int argc, char **argv) {
     printf("Failed to init a JS runtime!\n");
     return 1;
   }
+  
   JSContext *ctx = JS_NewContext(rt);
   if (!ctx) {
     printf("Failed to init a JS context!\n");
