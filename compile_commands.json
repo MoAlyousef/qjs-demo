@@ -1,0 +1,57 @@
+[
+{
+  "directory": "/home/rayloom/dev/lisps/bin",
+  "command": "/usr/bin/g++ -DCONFIG_BIGNUM -DCONFIG_VERSION=\\\"2020-11-08\\\" -D_GNU_SOURCE -I/home/rayloom/dev/lisps/quickjs -O3 -DNDEBUG -o CMakeFiles/main.dir/main.cpp.o -c /home/rayloom/dev/lisps/main.cpp",
+  "file": "/home/rayloom/dev/lisps/main.cpp"
+},
+{
+  "directory": "/home/rayloom/dev/lisps/bin",
+  "command": "/usr/bin/cc -DCONFIG_BIGNUM -DCONFIG_VERSION=\\\"2020-11-08\\\" -D_GNU_SOURCE  -O3 -DNDEBUG -o CMakeFiles/quickjs.dir/quickjs/cutils.c.o -c /home/rayloom/dev/lisps/quickjs/cutils.c",
+  "file": "/home/rayloom/dev/lisps/quickjs/cutils.c"
+},
+{
+  "directory": "/home/rayloom/dev/lisps/bin",
+  "command": "/usr/bin/cc -DCONFIG_BIGNUM -DCONFIG_VERSION=\\\"2020-11-08\\\" -D_GNU_SOURCE  -O3 -DNDEBUG -o CMakeFiles/quickjs.dir/quickjs/libbf.c.o -c /home/rayloom/dev/lisps/quickjs/libbf.c",
+  "file": "/home/rayloom/dev/lisps/quickjs/libbf.c"
+},
+{
+  "directory": "/home/rayloom/dev/lisps/bin",
+  "command": "/usr/bin/cc -DCONFIG_BIGNUM -DCONFIG_VERSION=\\\"2020-11-08\\\" -D_GNU_SOURCE  -O3 -DNDEBUG -o CMakeFiles/quickjs.dir/quickjs/libregexp.c.o -c /home/rayloom/dev/lisps/quickjs/libregexp.c",
+  "file": "/home/rayloom/dev/lisps/quickjs/libregexp.c"
+},
+{
+  "directory": "/home/rayloom/dev/lisps/bin",
+  "command": "/usr/bin/cc -DCONFIG_BIGNUM -DCONFIG_VERSION=\\\"2020-11-08\\\" -D_GNU_SOURCE  -O3 -DNDEBUG -o CMakeFiles/quickjs.dir/quickjs/libunicode.c.o -c /home/rayloom/dev/lisps/quickjs/libunicode.c",
+  "file": "/home/rayloom/dev/lisps/quickjs/libunicode.c"
+},
+{
+  "directory": "/home/rayloom/dev/lisps/bin",
+  "command": "/usr/bin/cc -DCONFIG_BIGNUM -DCONFIG_VERSION=\\\"2020-11-08\\\" -D_GNU_SOURCE  -O3 -DNDEBUG -o CMakeFiles/quickjs.dir/quickjs/qjs.c.o -c /home/rayloom/dev/lisps/quickjs/qjs.c",
+  "file": "/home/rayloom/dev/lisps/quickjs/qjs.c"
+},
+{
+  "directory": "/home/rayloom/dev/lisps/bin",
+  "command": "/usr/bin/cc -DCONFIG_BIGNUM -DCONFIG_VERSION=\\\"2020-11-08\\\" -D_GNU_SOURCE  -O3 -DNDEBUG -o CMakeFiles/quickjs.dir/quickjs/qjsc.c.o -c /home/rayloom/dev/lisps/quickjs/qjsc.c",
+  "file": "/home/rayloom/dev/lisps/quickjs/qjsc.c"
+},
+{
+  "directory": "/home/rayloom/dev/lisps/bin",
+  "command": "/usr/bin/cc -DCONFIG_BIGNUM -DCONFIG_VERSION=\\\"2020-11-08\\\" -D_GNU_SOURCE  -O3 -DNDEBUG -o CMakeFiles/quickjs.dir/quickjs/quickjs-libc.c.o -c /home/rayloom/dev/lisps/quickjs/quickjs-libc.c",
+  "file": "/home/rayloom/dev/lisps/quickjs/quickjs-libc.c"
+},
+{
+  "directory": "/home/rayloom/dev/lisps/bin",
+  "command": "/usr/bin/cc -DCONFIG_BIGNUM -DCONFIG_VERSION=\\\"2020-11-08\\\" -D_GNU_SOURCE  -O3 -DNDEBUG -o CMakeFiles/quickjs.dir/quickjs/quickjs.c.o -c /home/rayloom/dev/lisps/quickjs/quickjs.c",
+  "file": "/home/rayloom/dev/lisps/quickjs/quickjs.c"
+},
+{
+  "directory": "/home/rayloom/dev/lisps/bin",
+  "command": "/usr/bin/cc -DCONFIG_BIGNUM -DCONFIG_VERSION=\\\"2020-11-08\\\" -D_GNU_SOURCE  -O3 -DNDEBUG -o CMakeFiles/quickjs.dir/quickjs/run-test262.c.o -c /home/rayloom/dev/lisps/quickjs/run-test262.c",
+  "file": "/home/rayloom/dev/lisps/quickjs/run-test262.c"
+},
+{
+  "directory": "/home/rayloom/dev/lisps/bin",
+  "command": "/usr/bin/cc -DCONFIG_BIGNUM -DCONFIG_VERSION=\\\"2020-11-08\\\" -D_GNU_SOURCE  -O3 -DNDEBUG -o CMakeFiles/quickjs.dir/quickjs/unicode_gen.c.o -c /home/rayloom/dev/lisps/quickjs/unicode_gen.c",
+  "file": "/home/rayloom/dev/lisps/quickjs/unicode_gen.c"
+}
+]
