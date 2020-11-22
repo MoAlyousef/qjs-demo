@@ -1,7 +1,8 @@
 # QuickJs C++ app demo
 
-This shows how to use to embed Javascript into a C++ app using Quickjs.
-Quickjs is fetched using CMake's FetchContent command.
+This shows how to embed Javascript into a C++ cmake based project using Quickjs.
+Quickjs is fetched automatically using CMake's FetchContent command.
+
 To build:
 ```
 $ cmake -Bbin
